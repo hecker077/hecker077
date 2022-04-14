@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hecker077
-- 👀 I’m interested in ...coding,hacking,web_development,gamer
+- 👀 I’m interested in ...coding, hacking, web_development, gamer
 - 🌱 I’m currently learning ...C++ and python
 - 💞️ I’m looking to collaborate on ...idk man
 - 📫 How to reach me ...always discord https://discord.gg/jsyHnmxANH
